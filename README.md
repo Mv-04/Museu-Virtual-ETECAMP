@@ -73,6 +73,7 @@ Comece a rodar o servidor abrindo o Xampp e clique em "start" nas opções "Apac
 </div>
 <br>
 Agora em seu navegador digite "localhost/" em seguida clique em "phpmyadmin".
+<br><br>
 
 Após isso, crie um banco de dados com nome "mv" (caso queira mudar o nome será necessário alterar o nome no código) e arraste o arquivo "mv" que está dentro da pasta "Museu Virtual" para dentro desse banco de dados.
 <div align="center">
@@ -80,13 +81,21 @@ Após isso, crie um banco de dados com nome "mv" (caso queira mudar o nome será
 </div>
 <br>
 
-Abra uma segunda aba e digite "localhost/Museu Virtual", depois clique na seguinte sequência "frontend", "paginas" e "home.php", você será direcionado para a página inicial do site.
+Abra uma segunda aba e digite "localhost/Museu Virtual", depois clique na seguinte sequência "frontend", "paginas" e "inicio.php", você será direcionado para a página inicial do site.
+<br>
 
-Pronto o projeto pode ser usado! Lembre-se de logar antes de tentar realizar alguma ação dentro da plataforma!
-
+O sistema possui dois tipos de usuários: aluno (faz as publicações) e administrador (gerencia conteúdo, categorias e usuários).
+<br><br>
 Aqui está o email e senha do usuário administrador:
 <p>Email: admin@email.com</p>
 <p>Senha: admin123</p>
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5df5bea7-4427-475f-9fe1-80cef6c39a53"style="width: 50%;">
+</div>
+<br>
+Pronto o projeto pode ser usado! Lembre-se de logar antes de tentar realizar alguma ação dentro da plataforma!
 
 <h2>Autores:</h2>
 <ol>
