@@ -21,7 +21,7 @@ Caso não tenha realizado login pode-se ver as obras, filtrar por tipo de arte e
   <img src="https://github.com/user-attachments/assets/558cccda-3f66-4a81-ace4-0eda1c525616" style="width: 70%;">
 </div>
 <br>
-Nesta tela o usuário poderá fazer a publicação de suas obras escolhendo uma das categorias existentes, dependendo do tipo da categoria as opções para inserir informações mudam.
+Nesta tela o usuário poderá fazer a publicação de suas obras escolhendo uma das categorias existentes (caso esteja logado como aluno), dependendo do tipo da categoria as opções para inserir informações mudam.
 
 <h2>Como executar o projeto</h2>
 
@@ -38,12 +38,12 @@ Nesta tela o usuário poderá fazer a publicação de suas obras escolhendo uma 
 
 <h3>Instruções:</h3>
 
-Mova a pasta compactada do projeto para a pasta 'htdocs' dentro do diretório 'xampp' no seu computador e descompacte-a.
+Mova o arquivo compactado do projeto para a pasta "htdocs" que está dentro da pasta "xampp" no seu computador e descompacte-o.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a67fc1da-422b-4115-bca1-030b63270d24" style="width: 50%;">
 </div>
 
-Comece a rodar o servidor abrindo o Xampp e clique em "start" nas opções "Apache" e "MySQL".
+Comece a rodar o servidor abrindo o painel do Xampp e clique em "start" nas opções "Apache" e "MySQL".
 <div align="center">
   <img src="https://github.com/user-attachments/assets/612f8709-e6ac-4a96-a94a-51838e093b1c" style="width: 50%;">
 </div>
