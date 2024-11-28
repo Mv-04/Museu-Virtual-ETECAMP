@@ -36,33 +36,9 @@ Nesta tela o usuário poderá fazer a publicação de suas obras escolhendo uma 
   <p><img src="https://github.com/user-attachments/assets/c6d4bca8-f57e-44a9-a1e3-a4ae68aaad12" style="width: 2%;"> Xampp v3.3.0 ou outro software para rodar o servidor.</p>
 </ul>
 
-<!--<h4>Para baixar o Xampp:</h4>
-
-<p>Digite "xampp" no seu navegador.</p>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f6631a9e-c33f-460e-b826-ec3828501bc2" style="width: 50%; ">
-</div>
-
-<p>Escolha o sistema operacional.</p>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ad81670b-cb99-4c7a-a13d-e400a572e508" style="width: 50%; ">
-</div>
-
-<p>Siga as etapas de instalação do Xampp.</p>
-<p>Deixe todas as opções selecionadas.</p>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8eb4d931-71ce-4b72-ac97-68f3222c9e3c" style="width: 50%; ">
-</div>
-
-<p>Escolha uma pasta vazia.</p>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6711e72a-37a9-4a70-be7d-7c487a4c5aba" style="width: 50%; ">
-</div>-->
-
 <h3>Instruções:</h3>
 
-Mova a pasta descompactada do projeto para "xampp/htdocs" no seu computador.
+Mova a pasta compactada do projeto para "xampp/htdocs" no seu computador.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a67fc1da-422b-4115-bca1-030b63270d24" style="width: 50%;">
 </div>
