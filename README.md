@@ -38,7 +38,7 @@ Nesta tela o usuário poderá fazer a publicação de suas obras escolhendo uma 
 
 <h3>Instruções:</h3>
 
-Mova a pasta compactada do projeto para "xampp/htdocs" no seu computador.
+Mova a pasta compactada do projeto para a pasta 'htdocs' dentro do diretório 'xampp' no seu computador e descompacte-a.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a67fc1da-422b-4115-bca1-030b63270d24" style="width: 50%;">
 </div>
